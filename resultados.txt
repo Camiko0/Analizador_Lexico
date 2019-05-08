@@ -1,0 +1,51 @@
+La respuesta para [12 2 * 3 7 * + 10 +] es: 
+12 es un valor
+2 es un valor
+* es un operador
+3 es un valor
+7 es un valor
+* es un operador
++ es un operador
+10 es un valor
++ es un operador
+La respuesta para [8 2 5 * + 2 z *] es: 
+8 es un valor
+2 es un valor
+5 es un valor
+* es un operador
++ es un operador
+2 es un valor
+z es una variable
+* es un operador
+La respuesta para [8 A / 8 4 / + b 3 * "] es: 
+8 es un valor
+A no se reconoce
+/ es un operador
+8 es un valor
+4 es un valor
+/ es un operador
++ es un operador
+b es una variable
+3 es un valor
+* es un operador
+" no se reconoce
+La respuesta para [12 T * 2 + 2 / 3 +] es: 
+12 es un valor
+T no se reconoce
+* es un operador
+2 es un valor
++ es un operador
+2 es un valor
+/ es un operador
+3 es un valor
++ es un operador
+La respuesta para [7 3 / 1 3 / - 2 +] es: 
+7 es un valor
+3 es un valor
+/ es un operador
+1 es un valor
+3 es un valor
+/ es un operador
+- es un operador
+2 es un valor
++ es un operador
